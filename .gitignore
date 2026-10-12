@@ -1,0 +1,14 @@
+# Sample database files (download from the course resources)
+dvdrental.zip
+dvdrental.tar
+*.tar
+*.sql.bak
+
+# Editor and OS files
+.vscode/
+.DS_Store
+*.swp
+
+# Nix / direnv
+.direnv/
+result
